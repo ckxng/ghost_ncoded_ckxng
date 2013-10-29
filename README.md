@@ -1,5 +1,5 @@
-N-Coded
-=======
+N-Coded fork by Ckxng
+=====================
 
 A GitHub homage theme for the [Ghost Blogging platform](http://ghost.org "Ghost Blogging Platform") - forked from Casper, the default Ghost theme.
 
