@@ -7,6 +7,11 @@ A GitHub homage theme for the [Ghost Blogging platform](http://ghost.org "Ghost 
 
 Visit Ghost at: [www.ghost.org](http://www.ghost.org "Ghost")
 
+Status
+======
+
+This theme is in-use at http://www.ckxng.com and contains hard-coded links that make it appropriate for use only on that domain.
+
 ![N'Coded Screenshot](ncodedscreen.png?raw=true)
 
 Copying
