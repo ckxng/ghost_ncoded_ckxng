@@ -10,7 +10,9 @@ Visit Ghost at: [www.ghost.org](http://www.ghost.org "Ghost")
 Status
 ======
 
-This theme is in-use at http://www.ckxng.com and contains hard-coded links that make it appropriate for use only on that domain.
+This project is ABANDONED.
+
+This theme worked well, and was in-use at http://www.ckxng.com until I moved to another platform.  Note that this theme contains hard-coded links that make it appropriate for use only on that domain.  Some modification will be required in order to reuse it.
 
 ![N'Coded Screenshot](ncodedscreen.png?raw=true)
 
